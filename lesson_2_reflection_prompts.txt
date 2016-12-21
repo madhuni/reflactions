@@ -17,15 +17,29 @@ What value do you think it offers?
 	working directory, that which file is going to be add in the repository
 	and which file is still untracked. It gives a liberty to choose single 
 	commit with single file or single commit with multifile files.
-	
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+	I can see, when the file is use to be in the Staging area, we can use the 
+	"git diff --staged" command to see the difference b/w the file present in 
+	repository and the staging area and come to know about the changes we 
+	are about to commit. So in this way we can know that we are doing one
+	commit per logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	I think this the coolest feature of making the braches in our repository.
+	It will make us very relax and comfertable and allows us to experiment 
+	on the code written without disturbing the original code. It gives 
+	us the freedom to do whatever u want without taking care what will happen
+	to the real code. Branches are awesome !!!!
 
 How do the diagrams help you visualize the branch structure?
-
+	Branch strucutre is extermly helpful to understand each and every concept
+	of Git so far. It's more easy to visualize that what actually is happening
+	and specially in the learning phase these diagrams are very much helpful
+	to understand the concepts.
+	
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
