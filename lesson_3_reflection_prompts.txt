@@ -9,8 +9,10 @@ local?
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+	Yes correct, I don't want that chages done by another person will get
+	synced in my local too which I don't know yet. Without my knowledge if
+	anything will add it may create conflicts in my code as well. I might
+	not want this thing that Git will automatically sync with my repo.    
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
