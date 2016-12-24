@@ -40,4 +40,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It will be good to make a branch and do the changes rather than making the changes directly in 
+    the master. As it will give the more flexibility and freedom to experiment without affecting
+    our original code. And once everything is done and successfully experimented then we can
+    merge our new experimented code with our master and can make the flow flawless without 
+    any risk.
